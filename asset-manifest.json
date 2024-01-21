@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/NouraMagdy3/eCommerce-react-app/static/css/main.d0dba5b8.chunk.css",
+    "main.js": "/NouraMagdy3/eCommerce-react-app/static/js/main.a0e2a068.chunk.js",
+    "main.js.map": "/NouraMagdy3/eCommerce-react-app/static/js/main.a0e2a068.chunk.js.map",
+    "runtime-main.js": "/NouraMagdy3/eCommerce-react-app/static/js/runtime-main.ec779b11.js",
+    "runtime-main.js.map": "/NouraMagdy3/eCommerce-react-app/static/js/runtime-main.ec779b11.js.map",
+    "static/css/2.847f1092.chunk.css": "/NouraMagdy3/eCommerce-react-app/static/css/2.847f1092.chunk.css",
+    "static/js/2.f9bee8ed.chunk.js": "/NouraMagdy3/eCommerce-react-app/static/js/2.f9bee8ed.chunk.js",
+    "static/js/2.f9bee8ed.chunk.js.map": "/NouraMagdy3/eCommerce-react-app/static/js/2.f9bee8ed.chunk.js.map",
+    "static/js/3.e89a60de.chunk.js": "/NouraMagdy3/eCommerce-react-app/static/js/3.e89a60de.chunk.js",
+    "static/js/3.e89a60de.chunk.js.map": "/NouraMagdy3/eCommerce-react-app/static/js/3.e89a60de.chunk.js.map",
+    "index.html": "/NouraMagdy3/eCommerce-react-app/index.html",
+    "static/css/2.847f1092.chunk.css.map": "/NouraMagdy3/eCommerce-react-app/static/css/2.847f1092.chunk.css.map",
+    "static/css/main.d0dba5b8.chunk.css.map": "/NouraMagdy3/eCommerce-react-app/static/css/main.d0dba5b8.chunk.css.map",
+    "static/js/2.f9bee8ed.chunk.js.LICENSE.txt": "/NouraMagdy3/eCommerce-react-app/static/js/2.f9bee8ed.chunk.js.LICENSE.txt",
+    "static/media/Main-Banner1.25b9a4fa.jpg": "/NouraMagdy3/eCommerce-react-app/static/media/Main-Banner1.25b9a4fa.jpg",
+    "static/media/Main-Banner2.74e39bc5.jpg": "/NouraMagdy3/eCommerce-react-app/static/media/Main-Banner2.74e39bc5.jpg",
+    "static/media/Main-Banner3.33ca26df.jpg": "/NouraMagdy3/eCommerce-react-app/static/media/Main-Banner3.33ca26df.jpg",
+    "static/media/brand2.cfaa5149.png": "/NouraMagdy3/eCommerce-react-app/static/media/brand2.cfaa5149.png",
+    "static/media/brand6.95751ce3.png": "/NouraMagdy3/eCommerce-react-app/static/media/brand6.95751ce3.png",
+    "static/media/brand8.5de91c40.png": "/NouraMagdy3/eCommerce-react-app/static/media/brand8.5de91c40.png",
+    "static/media/product1.f3ca44f2.jpg": "/NouraMagdy3/eCommerce-react-app/static/media/product1.f3ca44f2.jpg",
+    "static/media/product2.678d303c.jpg": "/NouraMagdy3/eCommerce-react-app/static/media/product2.678d303c.jpg",
+    "static/media/product3.2e5fe3fa.jpg": "/NouraMagdy3/eCommerce-react-app/static/media/product3.2e5fe3fa.jpg",
+    "static/media/product7.20f0e203.jpg": "/NouraMagdy3/eCommerce-react-app/static/media/product7.20f0e203.jpg",
+    "static/media/product8.737a7e4d.jpg": "/NouraMagdy3/eCommerce-react-app/static/media/product8.737a7e4d.jpg",
+    "static/media/styles.css": "/NouraMagdy3/eCommerce-react-app/static/media/revicons.e8746a62.woff",
+    "static/media/subbanner1.1f185e84.jpg": "/NouraMagdy3/eCommerce-react-app/static/media/subbanner1.1f185e84.jpg",
+    "static/media/subbanner2.60b15b0a.jpg": "/NouraMagdy3/eCommerce-react-app/static/media/subbanner2.60b15b0a.jpg",
+    "static/media/subbanner3.b94a28bf.jpg": "/NouraMagdy3/eCommerce-react-app/static/media/subbanner3.b94a28bf.jpg",
+    "static/media/style.css": "/NouraMagdy3/eCommerce-react-app/static/media/testimonial.00ef536d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec779b11.js",
+    "static/css/2.847f1092.chunk.css",
+    "static/js/2.f9bee8ed.chunk.js",
+    "static/css/main.d0dba5b8.chunk.css",
+    "static/js/main.a0e2a068.chunk.js"
+  ]
+}
